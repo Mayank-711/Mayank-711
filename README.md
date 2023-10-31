@@ -21,4 +21,4 @@
 - **I am a Second Year Engineering Student at APSIT.**
 - :telescope: Learning Programming Skills
 - :seedling: Exploring New Opportunities to enhance my skills in the field
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-mishra-6aa3971b4/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-mishra-6aa3971b4/)
