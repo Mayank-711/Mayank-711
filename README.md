@@ -33,4 +33,4 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Mayank-711&theme=dracula&card_width=400&stroke=13FFFF&ring=00FFF7&fire=00EEFF&sideNums=00F6FF&sideLabels=00E5FF&dates=FFDD00)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mayank-711&theme=dark&date_format=M%20j%5B%2C%20Y%5D&card_width=400)](https://git.io/streak-stats)
