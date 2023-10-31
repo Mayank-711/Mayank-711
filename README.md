@@ -2,9 +2,15 @@
 <div id="header" align="center">
   <img src="https://github.com/Mayank-711/Mayank-711/assets/148845605/4c102215-9457-4466-a7ee-d8848663cacc"width = "100"/>
 </div>
-<div id="header" align="center">
+<div id="badges">
   <a href="https://www.linkedin.com/in/mayank-mishra-6aa3971b4/">
-  <img src="https://github.com/Mayank-711/Mayank-711/assets/148845605/bae86499-aa10-4409-97d0-327ffa4a21cd"width = "30"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 ### Hi there 👋
