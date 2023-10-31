@@ -10,13 +10,13 @@
   </a>
 </div>
 <div id="badges"align="center">
-<img src="https://komarev.com/ghpvc/?username=Mayank-711&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=Mayank-711&style=flat-square&color=yellow" alt=""/>
 </div>
 
 ## 👨‍💻: About Me :
 - **I am a Second Year Engineering Student at APSIT.**
 - :telescope: Learning Programming Skills
-- :seedling: Exploring New Opportunities to enhance my skills in the field
+- :seedling: Exploring For New Opportunities to enhance my skills in the field
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-mishra-6aa3971b4/)
 
 ---
@@ -32,5 +32,7 @@
 ---
 
 ### :fire: My Stats :
+![](https://github-readme-stats.vercel.app/api?username=Mayank-711&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mayank-711&theme=vision-friendly-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank-711&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Mayank-711&theme=dark&date_format=M%20j%5B%2C%20Y%5D&card_width=400)](https://git.io/streak-stats)
