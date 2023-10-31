@@ -13,15 +13,16 @@
 <img src="https://komarev.com/ghpvc/?username=Mayank-711&style=flat-square&color=yellow" alt=""/>
 </div>
 
-## 👨‍💻: About Me :
-- **I am a Second Year Engineering Student at APSIT.**
-- :telescope: Learning Programming Skills
-- :seedling: Exploring For New Opportunities to enhance my skills in the field
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-mishra-6aa3971b4/)
+<h1 align ="Center"> 👨‍💻: About Me : </h1>
+<p align ="Center">
+<b>I am a Second Year Engineering Student at APSIT.<b><br>
+:telescope: Learning Programming Skills <br>
+:seedling: Exploring For New Opportunities to enhance my skills in the field<br>
+</p>
 
 ---
 
-### :hammer_and_wrench: Technology Stack:
+<h1 align ="Center"> :hammer_and_wrench: Technology Stack:</h1>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -31,8 +32,9 @@
 
 ---
 
-### :fire: My Stats :
-![](https://github-readme-stats.vercel.app/api?username=Mayank-711&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mayank-711&theme=vision-friendly-dark&hide_border=false)<br/>
+<h1 align ="Center"> :fire: My Stats :</h1>
+
+![](https://github-readme-stats.vercel.app/api?username=Mayank-711&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mayank-711&theme=vision-friendly-dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank-711&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
