@@ -13,8 +13,6 @@
 <img src="https://komarev.com/ghpvc/?username=Mayank-711&style=flat-square&color=blue" alt=""/>
 </div>
 
----
-
 ## 👨‍💻: About Me :
 - **I am a Second Year Engineering Student at APSIT.**
 - :telescope: Learning Programming Skills
