@@ -1,7 +1,7 @@
 ### Hi there 👋
-
-<!--
-**Mayank-711/Mayank-711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
+  <img src="![zoro_chibi_one_piece_by_cavaferdi_dfp4akk-fullview-removebg-preview](https://github.com/Mayank-711/Mayank-711/assets/148845605/4c102215-9457-4466-a7ee-d8848663cacc)"/>
+</div>
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
