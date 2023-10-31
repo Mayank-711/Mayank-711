@@ -10,8 +10,12 @@
 <div id="badges"align="center">
 <img src="https://komarev.com/ghpvc/?username=Mayank-711&style=flat-square&color=blue" alt=""/>
 </div>
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://github.com/Mayank-711/Mayank-711/assets/148845605/a08a5af5-f875-419f-a01d-d20c847f0899"/>
 </div>
 
 ### Hi there 👋
@@ -24,4 +28,5 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 
