@@ -13,8 +13,6 @@
 <img src="https://komarev.com/ghpvc/?username=Mayank-711&style=flat-square&color=blue" alt=""/>
 </div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mayank-711&theme=dark&date_format=M%20j%5B%2C%20Y%5D&card_width=100)](https://git.io/streak-stats)
-
 ---
 
 ## 👨‍💻: About Me :
