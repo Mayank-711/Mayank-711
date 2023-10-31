@@ -1,4 +1,6 @@
-
+<div align="center">
+  <img src="https://github.com/Mayank-711/Mayank-711/assets/148845605/a08a5af5-f875-419f-a01d-d20c847f0899"/>
+</div>
 <div id="header" align="center">
   <img src="https://github.com/Mayank-711/Mayank-711/assets/148845605/4c102215-9457-4466-a7ee-d8848663cacc"width = "100"/>
 </div>
@@ -13,9 +15,7 @@
 <h1 align="center">
   Hello👋
 </h1>
-<div align="center">
-  <img src="https://github.com/Mayank-711/Mayank-711/assets/148845605/a08a5af5-f875-419f-a01d-d20c847f0899"/>
-</div>
+
 
 ---
 
@@ -27,8 +27,8 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
+### :hammer_and_wrench: Technology Stack:
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
