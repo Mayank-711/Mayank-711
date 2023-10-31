@@ -1,9 +1,11 @@
-### Hi there 👋
+
 <div id="header" align="center">
   <img src="https://github.com/Mayank-711/Mayank-711/assets/148845605/4c102215-9457-4466-a7ee-d8848663cacc"width = "100"/>
 </div>
-
-Here are some ideas to get you started:
+<div id="header" align="center">
+  <img src="https://github.com/Mayank-711/Mayank-711/assets/148845605/bae86499-aa10-4409-97d0-327ffa4a21cd"width = "70"/>
+</div>
+### Hi there 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,3 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
