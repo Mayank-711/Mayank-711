@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Mayank-711/Mayank-711/assets/148845605/a08a5af5-f875-419f-a01d-d20c847f0899"/>
+  <img src="https://github.com/Mayank-711/Mayank-711/assets/148845605/25bf3a3f-0e94-4087-a543-d6b4ef374d0d"/>
 </div>
 <div id="header" align="center">
   <img src="https://github.com/Mayank-711/Mayank-711/assets/148845605/4c102215-9457-4466-a7ee-d8848663cacc"width = "100"/>
