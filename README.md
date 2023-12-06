@@ -13,10 +13,13 @@
 <img src="https://komarev.com/ghpvc/?username=Mayank-711&style=flat-square&color=yellow" alt=""/>
 </div>
 
+## I'm Mayank Mishra  
+
 <h1 align ="Center"> 👨‍💻: About Me : </h1>
 <p align ="Center">
 <b>I am a Second Year Engineering Student at APSIT.<b><br>
-:telescope: Learning Programming Skills <br>
+:telescope: I’m currently learning Python ,Django & ML  <br>
+⚡ Interested in Machine Learning  <br>
 :seedling: Exploring For New Opportunities to enhance my skills in the field<br>
 </p>
 
@@ -26,7 +29,9 @@
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git"  alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -35,9 +40,17 @@
 
 ---
 
-<h1 align ="Center"> :fire: My Stats :</h1>
+<h1 align ="Center"> 🔥 My Stats :</h1>
 
-![](https://github-readme-stats.vercel.app/api?username=Mayank-711&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mayank-711&theme=vision-friendly-dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank-711&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mayank-711&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank-711&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>  
