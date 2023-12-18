@@ -49,7 +49,7 @@
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank-711&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank-711&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
 
 </td></tr></table>  
 
