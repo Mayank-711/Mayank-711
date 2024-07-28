@@ -17,7 +17,7 @@
 
 <h1 align ="Center"> 👨‍💻: About Me : </h1>
 <p align ="Center">
-<b>I am a Second Year Engineering Student at APSIT.<b><br>
+<b>I am a Third Year Engineering Student at APSIT.<b><br>
 :telescope: I’m currently learning Python ,Django & ML  <br>
 ⚡ Interested in Machine Learning  <br>
 :seedling: Exploring For New Opportunities to enhance my skills in the field<br>
