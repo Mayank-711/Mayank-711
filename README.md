@@ -44,12 +44,10 @@
 
 
 <table><tr><td valign="top" width="50%">
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mayank-711&show_icons=true&theme=cobalt&title_color=ffffff&text_color=00fffb&bg_color=000000&locale=en&layout=compact" alt="mayank-711" /></p></td><td>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mayank-711&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayank-711&show_icons=true&theme=dark&title_color=ffffff&text_color=00ffff&locale=en" alt="mayank-711" /></p>
 
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank-711&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
 
 </td></tr></table>  
 
